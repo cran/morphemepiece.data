@@ -1,10 +1,10 @@
-5e311151e31bdc4a57036bacb6fa0f6f *DESCRIPTION
+14126431520e626c8fb83e499733d7ea *DESCRIPTION
 2b61804a65197d864afa0ff279bc9c4c *NAMESPACE
-dccc7d7e8289497c4615b6e35fa729e6 *NEWS.md
+2a5ff119d7f249112d05a76721b5fde4 *NEWS.md
 4ba7d3945d1b54122ae06b43250f04a9 *R/loaders.R
-4fd880e531387569f19a2c062b498130 *README.md
-3c6573e5fad9344f2341001c9ef5248c *inst/rds/morphemepiece_lookup_30000.rds
-7a5ec25c581f2c7aa1f2158aef1a5968 *inst/rds/morphemepiece_vocab_30000.rds
+0a5d59a8445adc7a1065b8e32e537ee4 *README.md
+fce4ab923329f397d8414b4d3a303ba8 *inst/rds/morphemepiece_lookup_30000.rds
+47e8f9ba99aba2dc6ab7d33e9bec3b4c *inst/rds/morphemepiece_vocab_30000.rds
 c70b55ac693a0f0c846e02c300271a07 *man/dot-get_path.Rd
 882a3257edfbfefed2cadf1bd59805bb *man/dot-load_inst_rds.Rd
 b235767855b3d98349f9fdbeab3f993b *man/morphemepiece_lookup.Rd
