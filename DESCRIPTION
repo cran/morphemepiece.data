@@ -1,6 +1,6 @@
 Package: morphemepiece.data
 Title: Data for Morpheme Tokenization
-Version: 1.1.0
+Version: 1.2.0
 Authors@R: c(
     person(given = "Jonathan",
            family = "Bratt",
@@ -26,10 +26,10 @@ Suggests: testthat (>= 3.0.0)
 Depends: R (>= 3.5.0)
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2021-10-27 13:29:44 UTC; jonth
+Packaged: 2022-04-18 17:19:26 UTC; jonth
 Author: Jonathan Bratt [aut] (<https://orcid.org/0000-0003-2859-0076>),
   Jon Harmon [aut, cre] (<https://orcid.org/0000-0003-4781-4346>),
   Bedford Freeman & Worth Pub Grp LLC DBA Macmillan Learning [cph]
 Maintainer: Jon Harmon <jonthegeek@gmail.com>
 Repository: CRAN
-Date/Publication: 2021-10-27 14:20:07 UTC
+Date/Publication: 2022-04-18 17:42:28 UTC
